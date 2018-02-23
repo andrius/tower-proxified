@@ -27,7 +27,7 @@ Tower is the best git cloent for mac, but it does not have proxy support. Often,
     /usr/local/bin/proxychains4 -q -f ~/.proxychains/proxychains.conf w3m ifconfig.co
     ```
 
-- Install applications Tower proxyfied (move it to the /Applications folder);
+- Unzip Tower proxyfied.zip and install it (move to the /Applications folder);
 
 - Done!
 
